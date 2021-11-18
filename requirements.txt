@@ -2,3 +2,9 @@ pip
 pandas
 matplotlib
 numpy
+statsmodels
+scipy
+sklearn
+dbt
+gspread
+gbq
