@@ -1,3 +1,7 @@
 pip
+scipy
+numpy
 pandas
 matplotlib
+sklearn
+statsmodels
